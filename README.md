@@ -4,7 +4,7 @@
 Using regression model with hyperparameter tuning, this salary prediction model based in Indonesia, with the predictor of job name, province, and years of experience. This project aims to make businesses able to determine the salary of their employees based on common salaries provided by other businesses in Indonesia. The alternative aim is for employees-to-be to determine their desired salary before going into their career. Database comes from web scrapping Glints and Karir jobsites.
 
 ### Illustration:
-![alt text](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot1.jpg|width=100)
+[[https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot1.jpg|width=100]]
 
 ## [Fashion Object Classification](https://github.com/cindysuyitno/Fashion-Object-Classification)
 Using sequential model, this project aims to assist users of fashion e-commerce when they want to upload their products. From over 300 pictures of each category downloaded from google (which then splitted 80:20 to train and test data), the classifier would predict the fashion object class by the picture uploaded by the user.
