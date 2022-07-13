@@ -17,6 +17,8 @@ Using sequential model, this project aims to assist users of fashion e-commerce 
 This is the analysis of Amazon Electronic products reviews from 2015-2018 (data from https://data.world/datafiniti/consumer-reviews-of-amazon-products). Using data studio, interactive visualization is done in order to provide a brief report of the data (check visualization on https://datastudio.google.com/reporting/b2743086-9e4d-4eff-ba67-e64e7285a34a). The data is also analyzed using python, with the final aim to perform clustering and get insight from the unsupervised model.
 
 ### Illustration
+Review Text Visualization
 ![alt text](https://github.com/cindysuyitno/Amazon-Customer-Review-Analysis/blob/main/AmazonReviewTextVisualization.png)
+Cluster Illustration
 ![alt text](https://github.com/cindysuyitno/Amazon-Customer-Review-Analysis/blob/main/Cluster%20illustration.png)
 
