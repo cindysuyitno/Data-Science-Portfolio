@@ -4,6 +4,7 @@
 Using regression model with hyperparameter tuning, this salary prediction model based in Indonesia, with the predictor of job name, province, and years of experience. This project aims to make businesses able to determine the salary of their employees based on common salaries provided by other businesses in Indonesia. The alternative aim is for employees-to-be to determine their desired salary before going into their career. Database comes from web scrapping Glints and Karir jobsites.
 
 ### Illustration:
+<img src="[https://github.com/favicon.ico](https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot1.jpg)" width="48">
 [[https://github.com/cindysuyitno/Salary-Prediction-in-Indonesia/blob/main/screenshoot1.jpg|width=100]]
 
 ## [Fashion Object Classification](https://github.com/cindysuyitno/Fashion-Object-Classification)
