@@ -19,3 +19,4 @@ This is the analysis of Amazon Electronic products reviews from 2015-2018 (data 
 ### Illustration
 ![alt text](https://github.com/cindysuyitno/Amazon-Customer-Review-Analysis/blob/main/AmazonReviewTextVisualization.png|width=100)
 ![alt text](https://github.com/cindysuyitno/Amazon-Customer-Review-Analysis/blob/main/Cluster%20illustration.png)
+
